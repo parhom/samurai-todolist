@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samurai-todolist/static/css/main.544c5701.css",
-    "main.js": "/samurai-todolist/static/js/main.c088db2f.js",
+    "main.js": "/samurai-todolist/static/js/main.d86aa327.js",
     "static/js/453.97be82b3.chunk.js": "/samurai-todolist/static/js/453.97be82b3.chunk.js",
     "index.html": "/samurai-todolist/index.html",
     "main.544c5701.css.map": "/samurai-todolist/static/css/main.544c5701.css.map",
-    "main.c088db2f.js.map": "/samurai-todolist/static/js/main.c088db2f.js.map",
+    "main.d86aa327.js.map": "/samurai-todolist/static/js/main.d86aa327.js.map",
     "453.97be82b3.chunk.js.map": "/samurai-todolist/static/js/453.97be82b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.544c5701.css",
-    "static/js/main.c088db2f.js"
+    "static/js/main.d86aa327.js"
   ]
 }
